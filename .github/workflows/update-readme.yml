@@ -1,4 +1,4 @@
-name: Update README with Date & Snake
+name: Update README with Date
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
 
       - name: Generate date
         run: |
-          echo "LAST_UPDATED=$(date -u '+%b %d, %Y • Week %V')" >> $GITHUB_ENV
+          echo "LAST_UPDATED=$(date -u '+%Y-%m-%d • W%V • %B')" >> $GITHUB_ENV
 
       - name: Update README
         run: |
