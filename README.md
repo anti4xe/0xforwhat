@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=Hi+there...;Iam+Hkum;Cybersecurity+Enthusiast;CTF+Player;Linux+User" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=Hi+there...;Iam+Hkum....;Cybersecurity+Enthusiast;CTF+Player;Linux+User" />
 </h1>
  
 
