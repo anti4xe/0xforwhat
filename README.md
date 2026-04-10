@@ -18,9 +18,9 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 
 ## 👤 Personal Information
 - **Name:** Hkahkrang Aumarhkum  
-- **Role:** Cybersecurity / Student  
+- **Education:** HND(Computing) 
 - **Location:** Myanmar  
-- **Interests:** Pentesting | CTFs | SOC | Linux Security  
+- **Interests:** Pentesting || SOC   
 
 <hr>
  <h1 align="left">
