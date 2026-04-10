@@ -2,15 +2,17 @@
 <!-- ║        ⚡GITHUB PROFILE         ║ -->
 <!-- ╚════════════════════════════════════════════╝ -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there...;Iam+0xf0rwh4t;Penetration+Tester;CTF+Player;Linux+Lover" />
-</h1>
 <hr>
+<p align="center">
+  <img src="https://dummyimage.com/1000x100/000/00f7ff&text=About+Me" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AA00&center=true&vCenter=true&width=700&lines=Hi+there...;Iam+0xforwh4t;Cybersecurity+Enthusiast;CTF+Player;Linux+User" />
+</h1>
  
-           👤 ABOUT ME           
 
-
-I am a motivated and detail-oriented cybersecurity enthusiast with a strong interest in ethical hacking, penetration testing, and system administration. I continuously develop my skills in Linux environments, network security, and security tools through hands-on practice and CTF platforms such as TryHackMe and Hack The Box. I have experience with programming languages including Python and Bash, which I use for automation and security-related tasks. My goal is to build a professional career in cybersecurity and contribute to securing real-world systems.
+I am a motivated and detail-oriented cybersecurity enthusiast with a strong interest in penetration testing, and system administration. I continuously develop my skills in Linux environments, network security, and security tools through hands-on practice and CTF platforms such as TryHackMe and Hack The Box. I have experience with programming languages including Python and Bash, which I use for automation and security-related tasks. My goal is to build a professional career in cybersecurity and contribute to securing real-world systems.
 
 ---
 
@@ -111,19 +113,30 @@ To become a professional cybersecurity specialist capable of identifying vulnera
 
 ---
 
-     “Learn. Practice. Break. Secure.”     
+     “Learn. Practice. Break. Secure.” 
+## 📊 GitHub Stats
 <hr>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xforwh4t/0xforwh4t/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xforwh4t&show_icons=true&theme=dark&title_color=00aa00&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=0xforwh4t&theme=dark&ring=00aa00&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xforwh4t&bg_color=0d1117&color=00aa00&line=00aa00&area=true&hide_border=true" />
+</p>
+
 <hr>
-<div align="center" dir="auto">
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">💬 <em>"The quieter you become, the more you are able to hear."</em> — Kali Linux</h3><a id="user-content--the-quieter-you-become-the-more-you-are-able-to-hear--kali-linux" class="anchor" aria-label="Permalink: 💬 &quot;The quieter you become, the more you are able to hear.&quot; — Kali Linux" href="#-the-quieter-you-become-the-more-you-are-able-to-hear--kali-linux"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ef02ab8eae1be7774a3729757937f23a8a192d633dcea7604bd37a181c9c861/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3130302673656374696f6e3d666f6f74657226616e696d6174696f6e3d7477696e6b6c696e67"><img src="https://camo.githubusercontent.com/0ef02ab8eae1be7774a3729757937f23a8a192d633dcea7604bd37a181c9c861/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3130302673656374696f6e3d666f6f74657226616e696d6174696f6e3d7477696e6b6c696e67" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer&amp;animation=twinkling" style="max-width: 100%;"></a>
-</div>
-</article>
-  </div>
-</div>
+<p align="center">
+💬 <em>"The quieter you become, the more you are able to hear."</em> — Kali Linux
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+</p>
 
 
- 
