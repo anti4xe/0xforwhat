@@ -19,7 +19,7 @@ jobs:
           github_user_name: 0xforwh4t
           outputs: |
             outputs: |
-              dist/github-contribution-grid-snake-dark.svg?color_snake=00ff41&color_dots=#0d1117,#161b22,#00ff41,#00ff41,#00ff41
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
