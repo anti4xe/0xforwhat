@@ -12,7 +12,7 @@
 </h1>
  
 
-I am a motivated and detail-oriented cybersecurity enthusiast with a strong interest in penetration testing, and system administration. I continuously develop my skills in Linux environments, network security, and security tools through hands-on practice and CTF platforms such as TryHackMe and Hack The Box. I have experience with programming languages including Python and Bash, which I use for automation and security-related tasks.
+I am a motivated and detail-oriented cybersecurity enthusiast with a strong interest in penetration testing, and system administration. I continuously develop my skills in Linux environments, network security, and security tools through hands-on practice and CTF platforms such as TryHackMe and Hack The Box. I have experience with programming languages including Python and Bash.
 
 ---
 
