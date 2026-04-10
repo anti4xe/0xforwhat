@@ -164,6 +164,7 @@ To become a professional cybersecurity specialist capable of identifying vulnera
 <h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=GitHub+Stats" />
 </h1>  
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
