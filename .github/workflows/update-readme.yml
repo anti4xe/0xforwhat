@@ -2,8 +2,11 @@ name: Update README with Date & Snake
 
 on:
   schedule:
-    - cron: "0 * * * *"   # every hour
+    - cron: "0 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write  
 
 jobs:
   update:
@@ -14,17 +17,16 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate date
-        run: |
-          echo "LAST_UPDATED=$(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_ENV
+        run: echo "LAST_UPDATED=$(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_ENV
 
       - name: Update README
         run: |
           sed -i "s/<!--TIME-->.*<!--END-->/<!--TIME-->$LAST_UPDATED<!--END-->/g" README.md
 
-      - name: Commit changes
+      - name: Commit & Push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "⏰ Update time" || echo "No changes"
+          git diff --quiet && git diff --staged --quiet || git commit -m "⏰ Update time"
           git push
