@@ -143,6 +143,7 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
   <img src="./certificates/blob.png" width="40" />
 </a>
 </div>
+<hr>
 
 ## CTF writeups
 
