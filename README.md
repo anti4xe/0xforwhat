@@ -1,3 +1,26 @@
+<!-- ╔════════════════════════════════════════════╗ -->
+<!-- ║        ⚡GITHUB PROFILE         ║ -->
+<!-- ╚════════════════════════════════════════════╝ -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there...;Iam+0xf0rwh4t;Penetration+Tester;CTF+Player;Linux+Lover" />
+</h1>
+<hr>
+ 
+           👤 ABOUT ME           
+
+
+I am a motivated and detail-oriented cybersecurity enthusiast with a strong interest in ethical hacking, penetration testing, and system administration. I continuously develop my skills in Linux environments, network security, and security tools through hands-on practice and CTF platforms such as TryHackMe and Hack The Box. I have experience with programming languages including Python and Bash, which I use for automation and security-related tasks. My goal is to build a professional career in cybersecurity and contribute to securing real-world systems.
+
+---
+
+## 👤 Personal Information
+- **Name:** Hkahkrang Aumarhkum  
+- **Role:** Cybersecurity / Student  
+- **Location:** Myanmar  
+- **Interests:** Pentesting | CTFs | SOC | Linux Security  
+
+---
 
 <hr>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">⚡ Tech Stack</h2><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: ⚡ Tech Stack" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -65,6 +88,33 @@
 
 <a href="dbxluke@gmail.com"><img src="https://camo.githubusercontent.com/3dab650f25d56587b6218c5aa481ae7da43e1b66427a0c2cd3263685fc765b0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
 </div>
+
+<hr>
+
+ 
+    🎯 LEARNING FOCUS        
+ 
+
+- Web Application Security  
+- Network Penetration Testing  
+- Linux Privilege Escalation  
+- SOC & Blue Team Fundamentals  
+- CTF Problem Solving  
+
+---
+
+
+    📌 CAREER GOAL              
+
+
+To become a professional cybersecurity specialist capable of identifying vulnerabilities, strengthening system defenses, and contributing to the protection of digital infrastructure.
+
+---
+
+     “Learn. Practice. Break. Secure.”     
+
+<hr>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anti4xe&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
 <hr>
 <div align="center" dir="auto">
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">💬 <em>"The quieter you become, the more you are able to hear."</em> — Kali Linux</h3><a id="user-content--the-quieter-you-become-the-more-you-are-able-to-hear--kali-linux" class="anchor" aria-label="Permalink: 💬 &quot;The quieter you become, the more you are able to hear.&quot; — Kali Linux" href="#-the-quieter-you-become-the-more-you-are-able-to-hear--kali-linux"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
