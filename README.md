@@ -134,7 +134,11 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 <a href="./certificates/jp_creatigon.pdf" target="_blank">
   <img src="./certificates/jp-creatigon.jpg" width="40" />
 </a>
-  </div>
+<a href="./certificates/" target="_blank">
+  <img src="./certificates/endpoint_security_30.png" width="40" />
+</a>
+<a href="./certificates/" target="_blank">
+  <img src="./certificates/blob.png" width="40" />
 </a>
 <hr>
 
