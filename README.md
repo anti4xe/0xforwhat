@@ -162,7 +162,7 @@ To become a professional cybersecurity specialist capable of identifying vulnera
 </h1>
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=GitHub+Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=___/\____/\_/\____/\___" />
 </h1>  
 
 <p align="center">
@@ -177,4 +177,3 @@ To become a professional cybersecurity specialist capable of identifying vulnera
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 </p>
-
