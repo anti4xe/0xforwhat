@@ -109,8 +109,8 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 
 ## Certificates and Badges
 
-<a href="./certificates/junior-pentest.pdf" target="_blank">
-  <img src="./certificates/junior-pentest.jpg" width="420" />
+<a href="./certificates/jp_creatigon.pdf" target="_blank">
+  <img src="./certificates/jp-creatigon.jpg" width="420" />
 </a>
   </div>
 </a>
