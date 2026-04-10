@@ -23,6 +23,31 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 - **Interests:** Pentesting | CTFs | SOC | Linux Security  
 
 <hr>
+ <h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AA00&width=700&lines=Contact+and+Connects" />
+ </h1>
+<p align="left">
+
+<a href="https://twitter.com/dbx_1uke" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/hkahkrang-aumarhkum" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:dbxluke@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://app.hackthebox.com/users/0xforwhat">
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+</a>
+<a href="https://tryhackme.com/p/heveg0x" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+</p>
+
+<hr>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">⚡ Tech Stack</h2><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: ⚡ Tech Stack" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div align="center" dir="auto">
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Languages</h3><a id="user-content-languages" class="anchor" aria-label="Permalink: Languages" href="#languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -79,14 +104,7 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1ab532dd6bbf18524496aa8f58c9eef8cb538e7c9c46fbd4db55b7284f753572/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b546865426f782d3946454630303f7374796c653d666f722d7468652d6261646765266c6f676f3d6861636b746865626f78266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/1ab532dd6bbf18524496aa8f58c9eef8cb538e7c9c46fbd4db55b7284f753572/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b546865426f782d3946454630303f7374796c653d666f722d7468652d6261646765266c6f676f3d6861636b746865626f78266c6f676f436f6c6f723d626c61636b" alt="HackTheBox" data-canonical-src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=black" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7698a13425df80e3d6a77aa58f75448ce6569e27e4eeb5e5435edb6ecdef76f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472794861636b4d652d3231324334323f7374796c653d666f722d7468652d6261646765266c6f676f3d7472796861636b6d65266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7698a13425df80e3d6a77aa58f75448ce6569e27e4eeb5e5435edb6ecdef76f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472794861636b4d652d3231324334323f7374796c653d666f722d7468652d6261646765266c6f676f3d7472796861636b6d65266c6f676f436f6c6f723d7768697465" alt="TryHackMe" data-canonical-src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" style="max-width: 100%;"></a></p>
 </div>
-<hr>
- <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AA00&width=700&lines=Contact and Connects" />
- </h1>
-<a href="https://twitter.com/dbx_1uke" rel="nofollow"><img src="https://camo.githubusercontent.com/9ebce40b5dc8ca37584b018fd5b5941319d135117ef1fb2330f4aa95877e79f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://linkedin.com/in/hkahkrang-aumarhkum" rel="nofollow"><img src="https://camo.githubusercontent.com/835f91c273c180e842aa0b2fb0d5ccc52def20089589abbcefceb28317c583f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="dbxluke@gmail.com"><img src="https://camo.githubusercontent.com/3dab650f25d56587b6218c5aa481ae7da43e1b66427a0c2cd3263685fc765b0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
-</div>
+
 
 <hr>
 
@@ -128,5 +146,4 @@ To become a professional cybersecurity specialist capable of identifying vulnera
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 </p>
-
 
