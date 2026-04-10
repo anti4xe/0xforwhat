@@ -4,7 +4,7 @@
 
 <hr>
 <p align="center">
-  <img src="https://dummyimage.com/1000x100/000/00f7ff&text=README" />
+  <img src="https://dummyimage.com/1000x70/000/00f7ff&text=README+:-" />
 </p>
 
 <h1 align="left">
