@@ -105,8 +105,13 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1ab532dd6bbf18524496aa8f58c9eef8cb538e7c9c46fbd4db55b7284f753572/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b546865426f782d3946454630303f7374796c653d666f722d7468652d6261646765266c6f676f3d6861636b746865626f78266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/1ab532dd6bbf18524496aa8f58c9eef8cb538e7c9c46fbd4db55b7284f753572/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4861636b546865426f782d3946454630303f7374796c653d666f722d7468652d6261646765266c6f676f3d6861636b746865626f78266c6f676f436f6c6f723d626c61636b" alt="HackTheBox" data-canonical-src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=black" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7698a13425df80e3d6a77aa58f75448ce6569e27e4eeb5e5435edb6ecdef76f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472794861636b4d652d3231324334323f7374796c653d666f722d7468652d6261646765266c6f676f3d7472796861636b6d65266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7698a13425df80e3d6a77aa58f75448ce6569e27e4eeb5e5435edb6ecdef76f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472794861636b4d652d3231324334323f7374796c653d666f722d7468652d6261646765266c6f676f3d7472796861636b6d65266c6f676f436f6c6f723d7768697465" alt="TryHackMe" data-canonical-src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" style="max-width: 100%;"></a></p>
 </div>
+<hr>
+
+## Certificates and Badges
 
 
+  </div>
+</a>
 <hr>
 
  <h1 align="left">
