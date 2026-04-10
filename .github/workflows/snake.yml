@@ -7,12 +7,17 @@ on:
 
 permissions:
   contents: write
+  pages: write        
+  id-token: write     
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -20,10 +25,15 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push to output branch
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+
+    steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
