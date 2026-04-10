@@ -130,16 +130,19 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 <hr>
 
 ## Certificates and Badges
-
+<div>
 <a href="./certificates/jp_creatigon.pdf" target="_blank">
   <img src="./certificates/jp-creatigon.jpg" width="40" />
 </a>
+
 <a href="./certificates/Endpoint_Security_certificate_aumarhkum-gmail-com_9409d7f4-0a33-4761-963f-22524769af48.pdf" target="_blank">
   <img src="./certificates/endpoint_security_30.png" width="40" />
 </a>
+
 <a href="./certificates/Learn-A-Thon_2025_certificate_aumarhkum-gmail-com_30f663f0-a650-4cf9-8d4f-f2d8208b891e.pdf" target="_blank">
   <img src="./certificates/blob.png" width="40" />
 </a>
+</div>
 <hr>
 
  <h1 align="left">
