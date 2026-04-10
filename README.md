@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AA00&width=700&lines=Hi+there...;Iam+0xforwh4t;Cybersecurity+Enthusiast;CTF+Player;Linux+User" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=Hi+there...;Iam+0xforwh4t;Cybersecurity+Enthusiast;CTF+Player;Linux+User" />
 </h1>
  
 
@@ -24,7 +24,7 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 
 <hr>
  <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AA00&width=700&lines=Contact+and+Connects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=Contact+and+Connects" />
  </h1>
 <p align="left">
 
@@ -46,9 +46,10 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 </p>
-
 <hr>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">⚡ Tech Stack</h2><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: ⚡ Tech Stack" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<h2 style="color:#00FF00; font-family: monospace;">
+⚡ TECH STACK
+</h2>
 <div align="center" dir="auto">
 <div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Languages</h3><a id="user-content-languages" class="anchor" aria-label="Permalink: Languages" href="#languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c7540eeb3a57c876017928dd6080019f0c56ab79630a7de2e01d217d169cedcf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c7540eeb3a57c876017928dd6080019f0c56ab79630a7de2e01d217d169cedcf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="C" data-canonical-src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -109,7 +110,7 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 <hr>
 
  <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AA00&width=700&lines=LEARNING+FOCUS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=LEARNING+FOCUS" />
  </h1>
 
 - Web Application Security  
@@ -122,17 +123,17 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 ---
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AA00&width=700&lines=CAREER+GOAL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=CAREER+GOAL" />
 </h1>
           
 To become a professional cybersecurity specialist capable of identifying vulnerabilities, strengthening system defenses, and contributing to the protection of digital infrastructure.
 <hr>
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AA00&width=700&lines=MISSION:+Learn,+Practice,+Break,+Secure..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=MISSION:+Learn,+Practice,+Break,+Secure..." />
 </h1>
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AA00&width=700&lines=GitHub+Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=GitHub+Stats" />
 </h1>  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
