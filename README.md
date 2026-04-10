@@ -1,83 +1,4 @@
 
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" alt="Typing SVG" data-canonical-src=""></a>
-<br>
-<p dir="auto"><a href="https://github.com/anti4xe"><img src="" data-canonical-src="" style="max-width: 100%;"></a>
-<a href="https://twitter.com/@marceline5th" rel="nofollow"><img src="" data-canonical-src="" style="max-width: 100%;"></a>
-
-<a href="https://discord.gg/majoi-x" rel="nofollow"><img src="" alt="Discord" data-canonical-src="" style="max-width: 100%;"></a>
-
-<a href="" rel="nofollow"><img src="" alt="TryHackMe" data-canonical-src="" style="max-width: 100%;"></a>
-<a href="" rel="nofollow"><img src="" alt="HackTheBox" data-canonical-src="" style="max-width: 100%;"></a></p>
-</div>
-<hr>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">👾 About Me</h2><a id="user-content--about-me" class="anchor" aria-label="Permalink: 👾 About Me" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div class="highlight highlight-source-yaml notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="name: mxjoi
-alias: mxjoi
-location: .......
-education: Computer Science Graduate
-focus:
-  - Open Source Contributions
-  - Cybersecurity &amp; Ethical Hacking
-  - Machine Learning &amp; AI
-  - ------------
-currently_learning: Penetration Testing 🔐
-contact: dbxluke@gmail.com
-fun_fact: I hack things legally 😄"><pre><span class="pl-ent">name</span>: <span class="pl-s">0xforwhat</span>
-<span class="pl-ent">alias</span>: <span class="pl-s">mxjoi</span>
-<span class="pl-ent">location</span>: <span class="pl-s">-------</span>
-<span class="pl-ent">education</span>: <span class="pl-s">Computer Science Graduate</span>
-<span class="pl-ent">focus</span>:
-  - <span class="pl-s">Open Source Contributions</span>
-  - <span class="pl-s">Cybersecurity &amp; Ethical Hacking</span>
-  - <span class="pl-s">Machine Learning &amp; AI</span>
-  - <span class="pl-s">-----------</span>
-<span class="pl-ent">currently_learning</span>: <span class="pl-s">Penetration Testing 🔐</span>
-<span class="pl-ent">contact</span>: <span class="pl-s">dbxluke@gmail.com</span>
-<span class="pl-ent">fun_fact</span>: <span class="pl-s">I hack things legally 😄</span></pre></div>
-<hr>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🟢 Hack The Box</h2><a id="user-content--hack-the-box" class="anchor" aria-label="Permalink: 🟢 Hack The Box" href=""><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d=""></path></svg></a></div>
-<div align="center" dir="auto">
-<p dir="auto"><a href="" rel="nofollow"><img src=" alt="HTB Profile" data-canonical-src="" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="" rel="nofollow"><img src="" alt="HTB" data-canonical-src="" style="max-width: 100%;"></a></p>
-</div>
-<hr>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🛡️ Cybersecurity Badges</h2><a id="user-content-️-cybersecurity-badges" class="anchor" aria-label="Permalink: 🛡️ Cybersecurity Badges" href="#️-cybersecurity-badges"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div align="center" dir="auto">
-<markdown-accessiblity-table><table>
-<thead>
-<tr>
-<th>Badge</th>
-<th>Credential</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="5"><img src="" data-canonical-src="" style="max-width: 100%;"></a></td>
-<td><a href="" rel="nofollow">Credly ↗</a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="5" data-canonical-src="" style="max-width: 100%;"></a></td>
-<td><a href="" rel="nofollow">Credly ↗</a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" data-canonical-src="e" style="max-width: 100%;"></a></td>
-<td><a href="" rel="nofollow">Credly ↗</a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="c="" style="max-width: 100%;"></a></td>
-<td><a href="" rel="nofollow">Credly ↗</a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" data-canonical-src="" style="max-width: 100%;"></a></td>
-<td><a href="" rel="nofollow">Credly ↗</a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="" style="max-width: 100%;"></a></td>
-<td><a href="" rel="nofollow">Credly ↗</a></td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
-</div>
 <hr>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">⚡ Tech Stack</h2><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: ⚡ Tech Stack" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div align="center" dir="auto">
@@ -136,14 +57,8 @@ fun_fact: I hack things legally 😄"><pre><span class="pl-ent">name</span>: <sp
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7698a13425df80e3d6a77aa58f75448ce6569e27e4eeb5e5435edb6ecdef76f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472794861636b4d652d3231324334323f7374796c653d666f722d7468652d6261646765266c6f676f3d7472796861636b6d65266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7698a13425df80e3d6a77aa58f75448ce6569e27e4eeb5e5435edb6ecdef76f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472794861636b4d652d3231324334323f7374796c653d666f722d7468652d6261646765266c6f676f3d7472796861636b6d65266c6f676f436f6c6f723d7768697465" alt="TryHackMe" data-canonical-src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" style="max-width: 100%;"></a></p>
 </div>
 <hr>
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📺 Content &amp; Community</h2><a id="user-content--secureit-maverick--content--community" class="anchor" aria-label="Permalink: 📺 SecureIT Maverick — Content &amp; Community" href="#-secureit-maverick--content--community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<blockquote>
-<p dir="auto">🔐 <em>Cybersecurity content, CTF walkthroughs &amp; more!</em></p>
-</blockquote>
 
-<hr>
-
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Let's Connect</h2><a id="user-content--lets-connect" class="anchor" aria-label="Permalink: 🌐 Let's Connect" href="#-lets-connect"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Contacts</h2><a id="user-content--lets-connect" class="anchor" aria-label="Permalink: 🌐 Let's Connect" href="#-lets-connect"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div align="center" dir="auto">
 <a href="https://twitter.com/@m4joi" rel="nofollow"><img src="https://camo.githubusercontent.com/9ebce40b5dc8ca37584b018fd5b5941319d135117ef1fb2330f4aa95877e79f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://linkedin.com/in/dbxluke" rel="nofollow"><img src="https://camo.githubusercontent.com/835f91c273c180e842aa0b2fb0d5ccc52def20089589abbcefceb28317c583f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -159,24 +74,5 @@ fun_fact: I hack things legally 😄"><pre><span class="pl-ent">name</span>: <sp
   </div>
 </div>
 
-
-<div class="tmp-mt-4">
-  <div class="js-pinned-items-reorder-container">
-  <h2 class="f4 mb-2 text-normal">
-      Pinned
-    <span data-view-component="true">
-  <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true" data-view-component="true" class="spinner pinned-items-spinner js-pinned-items-spinner v-align-text-bottom ml-1 tmp-ml-1 anim-rotate">
-    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none"></circle>
-    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
-</svg>    <span class="sr-only">Loading</span>
-</span>
-    <span
-      class="ml-2 color-fg-muted f6 js-pinned-items-reorder-message"
-      role="status"
-      aria-live="polite"
-      data-error-text="Something went wrong."
-      data-success-text="Order updated."
-    ></span>
-  </h2>
 
  
