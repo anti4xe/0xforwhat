@@ -20,7 +20,7 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 - **Name:** Hkahkrang Aumarhkum  
 - **Education:** HND(Computing) 
 - **Location:** Myanmar  
-- **Interests:** Pentesting | SOC   
+- **Interests:** Pentesting | SOC | CTF 
 
 <hr>
  <h1 align="left">
