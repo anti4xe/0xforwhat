@@ -42,7 +42,7 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 <a href="https://app.hackthebox.com/users/0xforwhat">
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </a>
-<a href="https://tryhackme.com/p/heveg0x" target="_blank">
+<a href="https://tryhackme.com/p/0xforwh4t" target="_blank">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 </p>
