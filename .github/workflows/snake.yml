@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   
+  contents: write
 
 jobs:
   generate:
@@ -20,9 +20,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push snake to branch
-        uses: peaceiris/actions-gh-pages@v4   
+      - name: Push to output branch
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: dist
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
