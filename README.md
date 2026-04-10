@@ -158,7 +158,7 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 To become a professional cybersecurity specialist capable of identifying vulnerabilities, strengthening system defenses, and contributing to the protection of digital infrastructure.
 <hr>
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=MISSION:+Learn,+Practice,+Eat,+Repeat..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=700&lines=Learn-->+Practice-->+Eat-->+Repeat..." />
 </h1>
 
 <h1 align="left">
