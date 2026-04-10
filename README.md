@@ -166,7 +166,7 @@ To become a professional cybersecurity specialist capable of identifying vulnera
 </h1>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/0xforwh4t/0xforwh4t/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
