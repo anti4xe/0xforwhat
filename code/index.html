@@ -3,15 +3,95 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Animated Banner</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Motivation vs Discipline vs Obsession</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <div class="frame-glow" aria-hidden="true"></div>
+  <main class="page">
+    <header class="intro">
+      <p class="intro__kicker">Code Recreation</p>
+      <h1>Motion Study</h1>
+      <p class="intro__lede">
+        Your MP4 translated into HTML, CSS, and JavaScript with animated SVG stick figures.
+      </p>
+    </header>
 
-<div class="container">
-  <canvas id="canvas"></canvas>
-</div>
+    <section class="comparison" aria-label="Exercise mindset comparison">
+      <article class="panel panel--motivation" data-profile="motivation">
+        <h2>MOTIVATION</h2>
+        <div class="stage">
+          <svg class="rig" viewBox="0 0 220 320" aria-hidden="true">
+            <line class="rig__post" x1="36" y1="72" x2="36" y2="292"></line>
+            <line class="rig__post" x1="184" y1="72" x2="184" y2="292"></line>
+            <line class="rig__bar" x1="36" y1="72" x2="184" y2="72"></line>
+            <g class="stick" data-figure>
+              <line data-part="upperArmL"></line>
+              <line data-part="lowerArmL"></line>
+              <line data-part="upperArmR"></line>
+              <line data-part="lowerArmR"></line>
+              <line data-part="torso"></line>
+              <line data-part="thighL"></line>
+              <line data-part="shinL"></line>
+              <line data-part="thighR"></line>
+              <line data-part="shinR"></line>
+              <circle data-part="head" r="14"></circle>
+            </g>
+          </svg>
+        </div>
+        <p class="panel__caption">Starts with a burst, then waits for the feeling to come back.</p>
+      </article>
 
-<script src="script.js"></script>
+      <article class="panel panel--discipline" data-profile="discipline">
+        <h2>DISCIPLINE</h2>
+        <div class="stage">
+          <svg class="rig" viewBox="0 0 220 320" aria-hidden="true">
+            <line class="rig__post" x1="36" y1="72" x2="36" y2="292"></line>
+            <line class="rig__post" x1="184" y1="72" x2="184" y2="292"></line>
+            <line class="rig__bar" x1="36" y1="72" x2="184" y2="72"></line>
+            <g class="stick" data-figure>
+              <line data-part="upperArmL"></line>
+              <line data-part="lowerArmL"></line>
+              <line data-part="upperArmR"></line>
+              <line data-part="lowerArmR"></line>
+              <line data-part="torso"></line>
+              <line data-part="thighL"></line>
+              <line data-part="shinL"></line>
+              <line data-part="thighR"></line>
+              <line data-part="shinR"></line>
+              <circle data-part="head" r="14"></circle>
+            </g>
+          </svg>
+        </div>
+        <p class="panel__caption">Keeps the same rhythm, even when the spark is gone.</p>
+      </article>
+
+      <article class="panel panel--obsession" data-profile="obsession">
+        <h2>OBSESSION</h2>
+        <div class="stage">
+          <svg class="rig" viewBox="0 0 220 320" aria-hidden="true">
+            <line class="rig__post" x1="36" y1="72" x2="36" y2="292"></line>
+            <line class="rig__post" x1="184" y1="72" x2="184" y2="292"></line>
+            <line class="rig__bar" x1="36" y1="72" x2="184" y2="72"></line>
+            <g class="stick" data-figure>
+              <line data-part="upperArmL"></line>
+              <line data-part="lowerArmL"></line>
+              <line data-part="upperArmR"></line>
+              <line data-part="lowerArmR"></line>
+              <line data-part="torso"></line>
+              <line data-part="thighL"></line>
+              <line data-part="shinL"></line>
+              <line data-part="thighR"></line>
+              <line data-part="shinR"></line>
+              <circle data-part="head" r="14"></circle>
+            </g>
+          </svg>
+        </div>
+        <p class="panel__caption">Turns repetition into identity and pushes the pace higher.</p>
+      </article>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
 </body>
 </html>
