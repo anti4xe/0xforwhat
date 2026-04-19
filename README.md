@@ -16,7 +16,7 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 
 ---
 
-## 👤 Personal Information
+##  Personal Information
 - **Name:** Majoi  
  
 - **Location:** Myanmar  
@@ -48,7 +48,7 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
 </p>
 <hr>
 <h2 style="color:#00FF00; font-family: monospace;">
-⚡ TECH STACK
+ TECH STACK
 </h2>
 <h3 align="center">Languages</h3>
 
@@ -75,7 +75,7 @@ I am a motivated and detail-oriented cybersecurity enthusiast with a strong inte
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=black">
 </p>
 <hr>
-<h2>🔧 Hacking Arsenal</h2>
+<h2> Hacking Arsenal</h2>
 <h3 align="center">🖥️ Primary OS</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
